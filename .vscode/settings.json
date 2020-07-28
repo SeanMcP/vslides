@@ -1,0 +1,11 @@
+{
+  "editor.fontSize": 36,
+  "prettier.printWidth": 40,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.activityBar.visible": false,
+  "workbench.statusBar.visible": false,
+  "workbench.editor.showTabs": false,
+  "breadcrumbs.enabled": false,
+  "editor.minimap.enabled": false
+}
