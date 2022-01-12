@@ -9,7 +9,7 @@ For a feature, Alpha wanted a component that would:
 - Slide up from the bottom on mobile
 - Conditionally overlay
 - Animate in transition
-- Be reusable
+- Be reusable 😬
 
 <!--
 
@@ -68,7 +68,7 @@ Abstracted all the logic into a HOC that could wrap any component
 Looked fancy (backpats) but:
 
 - State changes caused the wrapped component to re-render
-- Animated transition weren't possible 🧊
+- Animated transition weren't possible 💥
 
 <!--
 
@@ -129,7 +129,7 @@ Handles the rest under the hood
 ### Component
 
 - New React features _can_ make interactive logic easier
-- Should probably rename the component `Panel`
+- Should probably rename the component `Panel` 😅
 
 ### Process
 
